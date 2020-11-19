@@ -1,5 +1,5 @@
 # Top 20 European Soccer Leagues Player Data - Project Overview:
-* Scraped over 10000 players data from http://transfermarkt.us/ using python and BeautifulSoup.
+* Scraped over 10000 player's data from the top 20 european leagues according to http://transfermarkt.us/ from the 19/20 season using python and BeautifulSoup.
 * Cleaned, transformed and organized the data for EDA.
 * Attempt to build a prediction model using Linear Regression and Random Forest. 
 
