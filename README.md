@@ -41,7 +41,7 @@ After scraping the data, I needed to clean it so that it was possible to make an
 * Separated citizenship column into main and second nationality.
 * Removed all string from currency data and converted to numeric.
 * Filled NAs as needed.
-* Renamed leagues that had the same name but were from different countries.
+* Renamed leagues that had the same name, but were from different countries.
 
 
 	
