@@ -64,7 +64,7 @@ My model used the following algorithms:
 *	**Random Forest** – There weren't many categorical variables specially when using all the player positions, but I thought I'd still try Random Forest.
 
 ## Model scoring:
-I thought I'd use a simple concept as R-Squared to evaluate my model since it's easy to interpret and its efficient to tell how related things are.
+I thought I'd use a simple concept as R-Squared to evaluate my model since it's easy to interpret and it's efficient to tell how related things are.
 
 ## Model attempts
 
@@ -76,10 +76,10 @@ Then I thought I might get a better result restricting the player's positions to
 *	**Linear Regression**: R² = 0.39
 *	**Random Forest** : R² = 0.17
 
-At last I tryied using only keepers:
+At last I tried using only keepers:
 *	**Linear Regression**: R² = 0.12
 *	**Random Forest** : R² = -0.0
 
 ## Model Conclusion
-Unfortunately the best result I managed to get using these 2 algorithms explained around 0.4 and 0.5 per cent of the data at best, which is not good enough for a prediction model. In my perspective, there isn't enough stats in this dataset so that one could actually predict player prices since football is way too complex to sum up its valuable stats in goals, assists, appearances, age, etc. Football takes into account many other factors that will hardly be found in any football stats website. Not to mention that these stats are way too general. For example, center-backs and defensive midfielders should have tackles and ball recovery stats to be taken into account too. Keepers should have a saves stat and so on. 
+Unfortunately, the best result I managed to get using these 2 algorithms explained around 0.4 and 0.5 per cent of the data at best, which is not good enough for a prediction model. In my perspective, there isn't enough stats in this dataset so that one could actually predict player prices since football is way too complex to sum up its valuable stats in goals, assists, appearances, age, etc. Football takes into account many other factors that will hardly be found in any football stats website. Not to mention that these stats are way too general. For example, center-backs and defensive midfielders should have tackles and ball recovery stats to be taken into account too. Keepers should have a saves stat and so on. 
 
