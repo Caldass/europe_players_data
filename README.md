@@ -47,7 +47,7 @@ After scraping the data, I needed to clean it so that it was possible to make an
 	
 ## EDA
 
-Looked data distribution, created new columns, and used and group by to analyze and understand better the data.
+Looked data distribution, created new columns, used value counts and group by to analyze and understand better the data.
 
 ![alt text](https://github.com/Caldass/europe_players_data/blob/main/goalsperleague.png "Goals per game by League")
 ![alt text](https://github.com/Caldass/europe_players_data/blob/main/goalsperplayer.png "Goals per game by player")
