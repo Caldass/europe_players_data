@@ -33,7 +33,7 @@ Used BeautifulSoup to scrape over 10000 player's data from transfermarkt.us. Her
 *	assists
 
 ## Data Cleaning
-After scraping the data, I needed to clean it so that we could make an useful EDA and a prediction model. Here's some of the changes applied to the data:
+After scraping the data, I needed to clean it so that it was possible to make an useful EDA and a prediction model. Here's some of the changes applied to the data:
 
 * Renamed all columns so that they would have lower case letters and wouldn't have spaces between words.
 * Simplified our data selecting only columns that I thought may be useful to our project.
