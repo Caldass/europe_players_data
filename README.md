@@ -49,7 +49,7 @@ After scraping the data, I needed to clean it so that we could make an useful ED
 
 Looked data distribution, created new columns, and used and group by to analyze and understand better the data.
 
-![alt text](https://github.com/Caldass/europe_players_data/blob/main/goalsperleague.PNG "Goals per game by League")
+![alt text](https://github.com/Caldass/europe_players_data/blob/main/goalsperleague.png "Goals per game by League")
 ![alt text](https://github.com/Caldass/europe_players_data/blob/main/goalsperplayer.png "Goals per game by player")
 ![alt text](https://github.com/Caldass/europe_players_data/blob/main/league_marketvalue.png "Players Market Value by League")
 ![alt text](https://github.com/Caldass/europe_players_data/blob/main/cmap.png "Correlations")
