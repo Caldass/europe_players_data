@@ -61,7 +61,7 @@ At first I thought it wouldn't be too much trouble to create a prediction of a p
 
 My model used the following algorithms:
 *	**Multiple Linear Regression** – Baseline for the model.
-*	**Random Forest** – There weren't many categorical variables specially when using all the player positions, but I thought there were still enough to try out Random Forest.
+*	**Random Forest** – There weren't many categorical variables specially when using all the player positions, but there was still some sparsity in the data, so I thought I'd use a Random Forest.
 
 ## Model scoring:
 I thought I'd use a simple concept as R-Squared to evaluate my model since it's easy to interpret and it's efficient to tell how related things are.
