@@ -53,7 +53,6 @@ Looked data distribution, created new columns, used value counts and group by to
 ![alt text](https://github.com/Caldass/europe_players_data/blob/main/goalsperplayer.png "Goals per game by player")
 ![alt text](https://github.com/Caldass/europe_players_data/blob/main/league_marketvalue.png "Players Market Value by League")
 ![alt text](https://github.com/Caldass/europe_players_data/blob/main/cmap.png "Correlations")
-![alt text](https://github.com/Caldass/europe_players_data/blob/main/recife_map.html "Recife Map")
 
 ## Model Building 
 
